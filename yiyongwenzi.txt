@@ -1,0 +1,103 @@
+或,||
+或者,||
+与,&&
+且,&&
+非,!
+不,!
+等于,==
+大于,>
+赋值,=
+赋,=
+小于,<
+小于等于,<=
+大于等于,>=
+小等于,<=
+小等,<=
+大等于,>=
+大等,>=
+整数i,int
+整i,int
+整数l,long long
+整l,long long
+整数1,int
+整1,int
+整数2,long long
+整2,long long
+整数3,short
+整3,short
+整数s,short
+整s,short
+小数f,float
+小数d,double
+小f,float
+小d,double
+小1,float
+小2,double
+小数1,float
+小数2,double
+字符,char
+符,char
+字符串,string
+字串,string
+符串,string
+空,void
+无意义的,void
+自动,auto
+结构体,struct
+结构,struct
+新结构,struct
+类,class
+公开的,public
+公开,public
+开放的,public
+开放,public
+保护的,protected
+受保护的,protected
+受保护,protected
+保护,protected
+私人的,private
+私人,private
+私有的,private
+私有,private
+循环f,for
+循环2,for
+循f,for
+循环w,while
+循环1,while
+循w,while
+做,do
+循wd,do
+如果f,if
+如果1,if
+要是f,if
+要是1,if
+除外e,else
+除外1,else
+除之外e,else
+除之外1,else
+如果ef,else if
+还如果,else if
+如果2,else if
+要是ef,else if
+要是2,else if
+判断,switch
+要是c,case
+要是3,case
+除此之外,default
+除之外d,default
+除之外2,default
+除外d,default
+除外2,default
+输入,cin
+输出,cout
+输出2,printf
+输出f,printf
+输出3,puts
+输出p,puts
+输入2,getline
+输入l,getline
+输入3,gets
+输入g,gets
+重定输入出,freopen
+重定输,freopen
+重入出,freopen
