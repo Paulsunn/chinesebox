@@ -17,6 +17,8 @@ C++ programmers to code.
 
 如果你想搜索关键词打开chinesebox.exe
 
+记得要点仍然运行
+
 ### VS中
 
 按照我的用法我会将头文件拖到项目所在文件夹内
